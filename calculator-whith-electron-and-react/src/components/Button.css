@@ -4,7 +4,7 @@
 }
 
 .button {
-    font-size: 1.4em;
+    font-size: 1.4rem;
     background-color: var(--bg-button);
     border: none;
     border-right: var(--border-button);
